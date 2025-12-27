@@ -54,6 +54,21 @@ This project is designed for education, experimentation, and real-world embedded
   > **ESP8266Audio:**  
   > Install via **Arduino IDE → Library Manager**.
 
+## **How to Use**
+## **Serial Commands**
+| Command | Action |
+|--------|--------|
+| **RECORD** | Record voice input and send to AI |
+| **TTS:Hello** | Convert text to speech |
+| **Any text** | Speak text directly |
+
+1. Open **Serial Monitor** (115200 baud)
+2. Type **RECORD** and press Enter
+3. Speak clearly into the microphone
+4. AI processes the request
+5. ESP32 plays the response via speaker
+
+
 
 
 
