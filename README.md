@@ -1,4 +1,4 @@
-ESP32 AI Voice Assistant
+# **ESP32 AI Voice Assistant**
 
 An ESP32-based AI Voice Assistant that can listen, understand, think, and speak — fully running on microcontroller hardware with cloud AI integration.
 
